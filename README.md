@@ -9,7 +9,7 @@ This repository contains a notebook `hwk4-false-color-MILLER.ipynb` which combin
 - Plotting of true-colour and false-colour images
 - Creating and customizing a map using three datasets
 ### About the Data
-In this notebook two datasets are used:
+The data is not housed in this repository. In the notebook two datasets are used:
 
 #### 1.) Landsat Data
 This dataset is composed of a simplified collection of bands (red, green, blue, near-infrared and shortwave infrared) from the Landsat Collection 2 Level-2 atmospherically corrected surface reflectance data, collected by the Landsat 8 satellite. This dataset was retrieved from the Microsoft Planetary Computer data catalog and clipped to an area surrounding the fire perimeters. It has been downloaded as a NetCDF file, and contains x and y coordinates, a time stamp, and values for red, green, blue, near infrared and shortwave infrared bands. The data was accessed from a google drive [https://drive.google.com/drive/folders/1USqhiMLyN8GE05B8WJmHabviJGnmAsLP].
