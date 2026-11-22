@@ -19,15 +19,14 @@ This dataset contains fire perimeters for the Eaton and Palisades fires, sourced
 
 
 ### References
-Center, E. R. O. a. S. (2013). LANDSAT 8-9 Operational Land Imager / Thermal Infrared Sensor Level-2, Collection 2 [Dataset]. In USGS DOI Tool Production 
+Center, E. R. O. a. S. (2013). LANDSAT 8-9 Operational Land Imager / Thermal Infrared Sensor Level-2, Collection 2 [Dataset]. In USGS DOI Tool Production Environment. https://doi.org/10.5066/p9ogbgm6 
 
+Palisades and Eaton dissolved fire perimeters (2025). (n.d.). https://egis-lacounty.hub.arcgis.com/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about
 
 ## Repository Organization
+```
 eds220-hwk4
 │--  README.md
 │--  hwk4-task2-false-color-MILLER.ipynb
 │--  .gitignore
-
-##Environment. https://doi.org/10.5066/p9ogbgm6 
-
-Palisades and Eaton dissolved fire perimeters (2025). (n.d.). https://egis-lacounty.hub.arcgis.com/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about
+```
